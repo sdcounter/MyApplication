@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">간단 웹브라우저</string>
+    <string name="action_settings">Settings</string>
+    <string name="go">이동</string>
+    <string name="back">이전</string>
+    <string name="urlHint">URL을 입력하세요.</string>
+</resources>
