@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">간단 일기장</string>
+    <string name="btnWrite">Button</string>
+    <string name="action_settings">Settings</string>
+</resources>
