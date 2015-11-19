@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">계산기</string>
+    <string name="add">더하기</string>
+    <string name="sub">빼기</string>
+    <string name="mul">곱하기</string>
+    <string name="div">나누기</string>
+    <string name="button1">계산하기</string>
+    <string name="button2">돌아가기</string>
+    <string name="action_settings">Settings</string>
+</resources>
